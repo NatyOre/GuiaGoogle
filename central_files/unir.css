@@ -1076,7 +1076,7 @@ body {
   color: #333333;
   position: relative;
   -webkit-text-size-adjust: 100%;
-  background-color: #f3f3f3;
+  background-color: #ffffff;
 }
 /* line 16, ../../../../tkz_scss/projects/unir/scss/_commons/_basic.scss */
 body[data-toggle="on"] {
@@ -2319,7 +2319,7 @@ table .td-content > a:hover {
     left: 0;
     position: fixed;
     height: 110px;
-    background-color: #f3f3f3;
+    background-color: #ffffff;
   }
   /* line 20, ../../../../tkz_scss/projects/unir/scss/_commons/_header.scss */
   .main-header[data-toggle="on"] .header-wrapper .mobile-header {
@@ -2694,7 +2694,7 @@ table .td-content > a:hover {
 /* line 304, ../../../../tkz_scss/projects/unir/scss/_commons/_header.scss */
 .main-header .header-wrapper .search-wrapper {
   position: absolute;
-  background-color: #f3f3f3;
+  background-color: #ffffff;
   z-index: 2;
   display: none;
 }
@@ -6293,7 +6293,7 @@ table .td-content > a:hover {
 }
 /* line 601, ../../../../tkz_scss/projects/unir/scss/_Course/_themes-content.scss */
 .virtualpage .highlight-text {
-  background-color: #f3f3f3;
+  background-color: #ffffff;
   padding: 10px;
   margin: 20px 0;
 }
@@ -6779,7 +6779,7 @@ table .td-content > a:hover {
     display: -moz-flex;
     display: -ms-flexbox;
     display: flex;
-    border-bottom: 15px solid #f3f3f3;
+    border-bottom: 15px solid #ffffff;
     padding-bottom: 10px;
   }
 }
@@ -6897,7 +6897,7 @@ table .td-content > a:hover {
 /* line 220, ../../../../tkz_scss/projects/unir/scss/_Course/_activities.scss */
 .activity-form .form-info {
   padding: 20px;
-  background-color: #f3f3f3;
+  background-color: #ffffff;
   margin-top: 20px;
 }
 @media screen and (max-width: 1020px) {
@@ -7028,7 +7028,7 @@ table .td-content > a:hover {
 /* line 332, ../../../../tkz_scss/projects/unir/scss/_Course/_activities.scss */
 .activity-results .empty-results {
   padding: 20px 0;
-  background-color: #f3f3f3;
+  background-color: #ffffff;
 }
 @media screen and (max-width: 1020px) {
   /* line 332, ../../../../tkz_scss/projects/unir/scss/_Course/_activities.scss */
@@ -7093,7 +7093,7 @@ table .td-content > a:hover {
 }
 /* line 396, ../../../../tkz_scss/projects/unir/scss/_Course/_activities.scss */
 .activity-results .horizontal-table tr {
-  border-bottom: 30px solid #f3f3f3;
+  border-bottom: 30px solid #ffffff;
   display: block;
   padding: 0;
 }
@@ -7496,7 +7496,7 @@ table .td-content > a:hover {
 }
 /* line 173, ../../../../tkz_scss/projects/unir/scss/_Course/_professor-guide.scss */
 .professor-guide-container .guide-info {
-  background-color: #f3f3f3;
+  background-color: #ffffff
   padding: 15px;
   font-size: .8125rem;
 }
