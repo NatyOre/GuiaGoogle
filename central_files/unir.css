@@ -106,6 +106,12 @@ body {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
+header {
+  font-size: 1.125rem;
+  color: #0098cd;
+  font-weight: 500;
+  margin-bottom: 15px;
+}
 
 /* line 33, ../../../../tkz_scss/_tkz_scss_core/_reset.scss */
 h1,
