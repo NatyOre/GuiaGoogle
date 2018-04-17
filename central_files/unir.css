@@ -107,10 +107,14 @@ body {
   box-sizing: border-box;
 }
 header {
+  font-family: 'Georgia', Helvetica, Arial, sans serif;
   font-size: 1.125rem;
   color: #0098cd;
-  font-weight: 500;
+  display: block;
+  font-weight: normal;
   margin-bottom: 14px;
+  margin: 15px auto;
+  
 }
 
 /* line 33, ../../../../tkz_scss/_tkz_scss_core/_reset.scss */
